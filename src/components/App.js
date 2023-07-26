@@ -1,10 +1,10 @@
 import React from 'react';
-import Greeting from './greeting';
+import PersonalGreeting from './PersonalGreeting';
 
 const App = () => {
   return (
     <div>
-      <Greeting />
+      <PersonalGreeting />
     </div>
   );
 };
